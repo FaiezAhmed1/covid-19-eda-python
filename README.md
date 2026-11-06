@@ -25,7 +25,7 @@ EDA on the Mexico COVID-19 patient-level dataset (1M+ rows, 21 columns) using Py
 The data covers hospital patients, so the death rate (47.09%) is much higher than in the general population.
 
 ## Visualization
-![COVID EDA](Covid 19 data.png)
+![COVID EDA](Covid%2019%20data.png)
 
 ## Tools
 Python, Pandas, Matplotlib, VS Code
